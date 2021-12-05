@@ -26,7 +26,7 @@
 * Diners Club - North America: 5401811995490673
 * Diners Club - Carte Blanche: 30519463726664
 * Diners Club - International: 36376893058778
-* Maestro: 5020969136887941 - принимает
+* Maestro: 5020969136887941
 * Visa Electron: 4913098379832456
 * InstaPayment: 6398097283066994
 

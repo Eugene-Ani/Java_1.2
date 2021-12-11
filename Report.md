@@ -18,7 +18,7 @@
 * Система контроля версий Git
 
 
-**В качестве тестовых данных использовались данные https://freeformatter.com/credit-card-number-generator-validator.html:**
+**В качестве тестовых данных использовались данные [генератора номеров кредитных карт](https://freeformatter.com/credit-card-number-generator-validator.html):**
 * VISA: 4716481078870788
 * MasterCard: 5482503536816530
 * Discover: 6011919112393611
